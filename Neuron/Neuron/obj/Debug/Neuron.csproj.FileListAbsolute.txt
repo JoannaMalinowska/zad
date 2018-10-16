@@ -1,1 +1,8 @@
 C:\Users\Yoanna\Desktop\PL\II semestr\sztuczna\zad1\Neuron\Neuron\bin\Debug\Neuron.exe.config
+C:\Users\Marcin\Source\Repos\zad\Neuron\Neuron\bin\Debug\Neuron.exe.config
+C:\Users\Marcin\Source\Repos\zad\Neuron\Neuron\bin\Debug\Neuron.exe
+C:\Users\Marcin\Source\Repos\zad\Neuron\Neuron\bin\Debug\Neuron.pdb
+C:\Users\Marcin\Source\Repos\zad\Neuron\Neuron\obj\Debug\Neuron.csprojResolveAssemblyReference.cache
+C:\Users\Marcin\Source\Repos\zad\Neuron\Neuron\obj\Debug\Neuron.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\Source\Repos\zad\Neuron\Neuron\obj\Debug\Neuron.exe
+C:\Users\Marcin\Source\Repos\zad\Neuron\Neuron\obj\Debug\Neuron.pdb
